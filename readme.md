@@ -3,8 +3,10 @@
 ### 👧My Profile
 - 😄 My name is :: Phannita Khamsaen(Mint)
 - ⚡ Student id :: 63364277
-- ⚙️ I'm currently studying on Faculty of Engineering.
+- 👩‍🎓 I'm currently studying on Faculty of Computer Engineering.
 
+### My Dream job
+## 🗨️🙎‍♀️ Software Taster
 
 ### Languages 
 <p align="left">
