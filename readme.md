@@ -6,7 +6,7 @@
 - 👩‍🎓 I'm currently studying on Faculty of Computer Engineering.
 
 ### My Dream job
-## 🗨️🙎‍♀️ Software Taster
+#### 🗨️🙎‍♀️ Software Taster
 
 ### Languages 
 <p align="left">
