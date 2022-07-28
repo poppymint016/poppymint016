@@ -1,4 +1,5 @@
-https://github.com/poppymint/header.png
+[![image](https://github.com/poppymint/header.png)](#)
+
 
 - 😄 My name is :: Phannita Khamsaen(Mint)
 - ⚡ Student id :: 63364277
