@@ -7,9 +7,15 @@
 
 ### 💰My Dream job
 - Software Taster💪
+- IT Management & Project Management💪
+
+### ⚙️Special interest in Computer Engineering
+- Database systems and data engineering
+- Algorithm
+- Networks and Information security
 
 ### 📚Languages 
-<p align="left">
+ <p align="left">
 <a href="#">
     <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a> 
