@@ -1,12 +1,9 @@
-### Hi there 👋 Nice to see u.
+https://github.com/poppymint/header.png
 
 - 😄 My name is :: Phannita Khamsaen(Mint)
 - ⚡ Student id :: 63364277
 - ⚙️ I'm currently studying on Faculty of Engineering.
 
-
-## Developer Tech
-[![image](https://github.com/poppymint016/header.png)](#)
 
 ### Languages 
 <p align="left">
