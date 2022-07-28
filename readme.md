@@ -15,6 +15,11 @@
 - Networks and Information security
 
 ### 📚Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poppymint016)](https://github.com/poppymint016/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poppymint016&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/poppymint016/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poppymint016&hide=javascript,html)](https://github.com/poppymint016/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poppymint016&langs_count=8)](https://github.com/poppymint016/github-readme-stats)
+
  <p align="left">
 <a href="#">
     <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
