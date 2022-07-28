@@ -1,5 +1,5 @@
 [![image](https://github.com/poppymint016/poppymint016/blob/master/header.png)](#)
-[![poppymint StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6558042/omid-nikrah)
+
 
 ### 👧My Profile
 - 😄 My name is :: Phannita Khamsaen(Mint)
