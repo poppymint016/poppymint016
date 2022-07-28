@@ -5,10 +5,10 @@
 - ⚡ Student id :: 63364277
 - 👩‍🎓 I'm currently studying on Faculty of Computer Engineering.
 
-### My Dream job
+### 💰My Dream job
 - Software Taster💪
 
-### Languages 
+### 📚Languages 
 <p align="left">
 <a href="#">
     <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
@@ -19,11 +19,11 @@
   </a> 
 
 <a href="#">
-    <img src="svg/dev/languages/C++.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/C#.svg" alt="C#" style="vertical-align:top; margin:6px 4px">
   </a> 
 </P>
 
-### Tools 
+### 🔧Tools 
 <p align="left">
 <a href="#">
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
