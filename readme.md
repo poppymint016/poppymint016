@@ -1,4 +1,4 @@
-[![image](https://github.com/poppymint/khalby786/khalby786.png)](#)
+[![image](https://github.com/poppymint/khalby786/khalby786.jpg)](#)
 
 
 - 😄 My name is :: Phannita Khamsaen(Mint)
