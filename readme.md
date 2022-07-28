@@ -18,8 +18,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poppymint016)](https://github.com/poppymint016/github-readme-stats)
 
 
-<p align="left">
-Other :: 
+<p align="left"> 
+Other >>
 <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a> 
